@@ -1,0 +1,7 @@
+langchain==0.1.17
+langchain-community==0.0.36
+langchainhub==0.1.15
+langchain-experimental==0.0.58
+langgraph==0.0.44
+tavily-python==0.3.3
+pandas==2.2.2
